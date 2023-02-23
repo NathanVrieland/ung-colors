@@ -1,4 +1,4 @@
-# ung-colors README
+# ung-colors
 
 ![picture of color theme](screenshot.png)
 
