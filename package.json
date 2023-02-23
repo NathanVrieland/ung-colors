@@ -2,7 +2,10 @@
   "name": "ung-colors",
   "displayName": "UNG colors",
   "description": "color theme using the offical colors from the University of North Georgia",
-  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/NathanVrieland/ung-colors"
+  },
+  "version": "0.0.2",
   "icon": "ung_ico.png",
   "publisher": "NathanVrieland",
   "engines": {
