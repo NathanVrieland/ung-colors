@@ -1,7 +1,14 @@
+// darkest blue: #000d25
+// dark blue: #001132
+// slightly dark blue: #002262
+// true UNG blue: #002f87
+// light blue: #90b7ff
+// true UNG gold: #ffc82e
+// desaturated gold: #fff5d8
 {
 	"name": "UNG colors",
 	"colors": {
-		"foreground": "#ffffff",
+        "foreground": "#ffffff",
 
         "scrollbarSlider.activeBackground": "#ffc82e",
         "scrollbarSlider.background": "#ffc82e77",
@@ -20,6 +27,8 @@
         "list.hoverBackground": "#002f8777",
         "list.activeSelectionBackground": "#002f87",
         "list.inactiveSelectionBackground": "#002f87aa",
+        "list.inactiveSelectionForeground": "#fff5d8",
+        "list.activeSelectionForeground": "#ffc82e",
 
         "terminal.background": "#000d25",
         "terminal.ansiBlue": "#002f87",
@@ -70,7 +79,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#00aa00"
 			}
 		},
 		{
@@ -80,7 +89,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#71ffff"
 			}
 		},
 		{
@@ -110,7 +119,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#f991ed"
 			}
 		},
 		{
@@ -154,7 +163,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ffd145"
 			}
 		},
 		{
@@ -163,7 +172,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#90b7ff"
 			}
 		},
 		{
@@ -189,7 +198,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#6bff6b"
 			}
 		},
 		{
@@ -204,7 +213,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#89DDFF"
 			}
 		},
 		{

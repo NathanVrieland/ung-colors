@@ -3,6 +3,8 @@
   "displayName": "UNG colors",
   "description": "color theme using the offical colors from the University of North Georgia",
   "version": "0.0.1",
+  "icon": "ung_ico.png",
+  "publisher": "NathanVrieland",
   "engines": {
     "vscode": "^1.75.0"
   },
