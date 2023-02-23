@@ -1,0 +1,21 @@
+{
+  "name": "ung-colors",
+  "displayName": "UNG colors",
+  "description": "color theme using the offical colors from the University of North Georgia",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "UNG colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/UNG colors-color-theme.json"
+      }
+    ]
+  }
+}
