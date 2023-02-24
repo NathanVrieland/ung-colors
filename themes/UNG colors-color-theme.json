@@ -24,6 +24,9 @@
         "sideBarSectionHeader.background": "#002262",
         "sideBarSectionHeader.border": "#002262",
 
+		"notificationCenterHeader.background": "#001132",
+		"notifications.background": "#001132",
+
         "list.hoverBackground": "#002f8777",
         "list.activeSelectionBackground": "#002f87",
         "list.inactiveSelectionBackground": "#002f87aa",
@@ -213,7 +216,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#aeffdc"
 			}
 		},
 		{
